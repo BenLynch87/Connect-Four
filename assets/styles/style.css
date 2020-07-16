@@ -8,11 +8,12 @@
     flex-direction: column-reverse;
     width: 100px;
     height: 600px;
-    border: 1px solid lightskyblue;
+    border: 1px solid black;
 }
 
 .token {
     border-radius: 50px;
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
+    padding: 10px;
 }
