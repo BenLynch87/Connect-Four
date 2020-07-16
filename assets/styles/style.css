@@ -1,0 +1,18 @@
+.main {
+    display: flex;
+    flex-direction: row;
+}
+
+.column{
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100px;
+    height: 600px;
+    border: 1px solid lightskyblue;
+}
+
+.token {
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
